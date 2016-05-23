@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VideoSender</string>
+    <string name="app_name">Video Transmitter UDP</string>
     <string name="title_activity_video">Video</string>
 
     <string name="btnDalejText">Dalej</string>
