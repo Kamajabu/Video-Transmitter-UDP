@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">VideoSender</string>
+    <string name="title_activity_video">Video</string>
+
+    <string name="btnDalejText">Dalej</string>
+    <string name="btnTestText">Test</string>
+    <string name="btnCameraText">Camera</string>
+
+    <string name="btnVideoStream">Video Stream</string>
+    <string name="btnSettings">Settings</string>
+
+
+    <color name="btnTextColor">#679C1B</color>
+
+
+    <!-- UI Elements -->
+    <string name="btn_capture">Click</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">No camera harware found</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+
+    <!-- Settings -->
+
+    <string name="hint_IP">IP Address</string>
+    <string name="accept">V</string>
+    <string name="cancel">X</string>
+
+
+    <!-- Welcome -->
+    <string name="welcome">Welcome to app used to catch and send camera video using UDP. You can change
+    target IP address by entering settings and start sending by entering Video Stream. If have any questions contact me
+    on kamajabu@gmail.com</string>
+
+    <!-- Author -->
+    <string name ="author">App made by Kamil Buczel. kamajabu@gmail.com</string>
+
+
+</resources>
